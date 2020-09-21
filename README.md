@@ -9,3 +9,17 @@ Antes de ejecutar los códigos, revisar la ruta de cada uno de los path a archiv
 ```bash
 pip3 install virtualenv
 ```
+ * Ubicarse a la misma altura del entorno virtual (entorno)
+ * Activar entorno en distribuciones  ubuntu/centos/macOS....
+ ```bash
+source entorno/bin/activate
+```
+ * Activar entorno en Windows
+ 
+ ```bash
+entorno/bin/activate
+```
+ 
+
+
+ 
